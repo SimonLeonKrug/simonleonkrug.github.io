@@ -21,7 +21,7 @@ Inst. 47 (11), 334–338 (2020)
 - Participant at the Summer School "Foundations of Machine Learning 2023" in Amsterdam (Tinbergen Institute), 07/2023
 - Participant and [Student Speaker](https://mosphys.ru/indico/event/5/contributions/251/) at the [Moscow International School of Physics 2020](https://mosphys.ru/2020/) in Moscow, 03/2020
 
-### Teaching
+### Tutor
 - Lecture: Analysis for Physicists, WT 2021/22, University of Vienna
 - Lecture: Theoretical Mechanics, ST 2020, University of Bonn
 - Lecture: Statistical Physics and Thermodynamics, WT 2019/20, University of Bonn
