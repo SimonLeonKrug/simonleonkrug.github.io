@@ -3,7 +3,7 @@ Welcome to my webpage! My name is Simon, I am a fourth-year PhD student research
 Find me on [Linkedin](https://www.linkedin.com/in/simon-le%C3%B3n-krug-191012284/), [Google Scholar](https://scholar.google.com/citations?user=SXvLvh8AAAAJ&hl=de&oi=ao), [ORCID](https://orcid.org/0000-0002-9821-8280) and [Twitter](https://twitter.com/SimonLeonKrug1).
 
 ### CV
-- PhD student @ TU Berlin in Toronto-based group of [Anatole von Lilienfeld](https://chemspacelab.chem.utoronto.ca/people/head-of-lab), started in Vienna (01/2021 - 07/2022), continued in Berlin (since 08/2022)
+- PhD student @ TU Berlin in Toronto-based group of [Anatole von Lilienfeld](https://chemspacelab.chem.utoronto.ca/people/head-of-lab), started @ University of Vienna (01/2021 - 07/2022), continued in Berlin (since 08/2022)
 - M.Sc. in physics @ University of Bonn, 04/2018 - 08/2020
 - B.Sc. in physics @ University of Bonn, 09/2013 - 08/2017
 
@@ -21,7 +21,7 @@ Inst. 47 (11), 334–338 (2020)
 - Participant at the Summer School "Foundations of Machine Learning 2023" in Amsterdam (Tinbergen Institute), 07/2023
 - Participant and [Student Speaker](https://mosphys.ru/indico/event/5/contributions/251/) at the [Moscow International School of Physics 2020](https://mosphys.ru/2020/) in Moscow, 03/2020
 
-### Tutor
+### Tutoring
 - Lecture: Analysis for Physicists, WT 2021/22, University of Vienna
 - Lecture: Theoretical Mechanics, ST 2020, University of Bonn
 - Lecture: Statistical Physics and Thermodynamics, WT 2019/20, University of Bonn
