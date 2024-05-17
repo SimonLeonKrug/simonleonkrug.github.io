@@ -15,6 +15,7 @@ Inst. 47 (11), 334–338 (2020)
 - Creator and maintainer of Python package ```PyAlchemy```, available on [GitHub](https://github.com/SimonLeonKrug/pyalchemy) and [PyPI](https://pypi.org/project/pyalchemy/)
 
 ### Summer Schools, Conferences, Posters, Talks, ...
+- Participant (with Poster) at [Chemical Compound Space Conference 2024](https://ccsc2024.github.io/) in Heidelberg, 05/2024
 - Participant (with Poster) at [Workshop on Machine Learning and Reactive Processes](https://www.bifold.berlin/news-events/events/workshop-quantum-machine-learning)
 - Participant at the Summer School "Introduction to tools and methods of Artificial Intelligence 2023" in Budapest (Eötvös Loránd University), 07/2023
 - Participant (with Poster) at the Summer School ["2D Quantum Matter"](https://sites.google.com/view/2dqm/home) in Lucca (University of Pisa), 07/2023
