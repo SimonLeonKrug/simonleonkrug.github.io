@@ -16,7 +16,7 @@ Inst. 47 (11), 334–338 (2020)
 
 ### Summer Schools, Conferences, Posters, Talks, ...
 - Participant (with Poster) at [Chemical Compound Space Conference 2024](https://ccsc2024.github.io/) in Heidelberg, 05/2024
-- Participant (with Poster) at [Workshop on Machine Learning and Reactive Processes](https://www.bifold.berlin/news-events/events/workshop-quantum-machine-learning)
+- Participant (with Poster) at [Workshop on Machine Learning and Reactive Processes](https://www.bifold.berlin/news-events/events/workshop-quantum-machine-learning) in Berlin, 12/2023
 - Participant at the Summer School "Introduction to tools and methods of Artificial Intelligence 2023" in Budapest (Eötvös Loránd University), 07/2023
 - Participant (with Poster) at the Summer School ["2D Quantum Matter"](https://sites.google.com/view/2dqm/home) in Lucca (University of Pisa), 07/2023
 - Participant at the Summer School "Foundations of Machine Learning 2023" in Amsterdam (Tinbergen Institute), 07/2023
