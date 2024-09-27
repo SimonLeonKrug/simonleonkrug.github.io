@@ -1,6 +1,6 @@
 Welcome to my webpage! My name is Simon, I am a fourth-year PhD student researching method development in quantum alchemy, an interdisciplinary field between computational chemistry, materials science and theoretical physics. In addition to my inclination towards theoretical physics, I have a passion for tutoring and teaching.
 
-Find me on [Linkedin](https://www.linkedin.com/in/simon-le%C3%B3n-krug-191012284/), [Google Scholar](https://scholar.google.com/citations?user=SXvLvh8AAAAJ&hl=de&oi=ao), [ORCID](https://orcid.org/0000-0002-9821-8280) and [Twitter](https://twitter.com/SimonLeonKrug1).
+Find me on [Linkedin](https://www.linkedin.com/in/simon-le%C3%B3n-krug-191012284/), [Google Scholar](https://scholar.google.com/citations?user=SXvLvh8AAAAJ&hl=de&oi=ao) and [ORCID](https://orcid.org/0000-0002-9821-8280).
 
 ### CV
 - PhD student @ TU Berlin in Toronto-based group of [Anatole von Lilienfeld](https://chemspacelab.chem.utoronto.ca/people/head-of-lab), started @ University of Vienna (01/2021 - 07/2022), continued in Berlin (since 08/2022)
@@ -8,7 +8,8 @@ Find me on [Linkedin](https://www.linkedin.com/in/simon-le%C3%B3n-krug-191012284
 - B.Sc. in physics @ University of Bonn, 09/2013 - 08/2017
 
 ### Scientific Publications
-- Krug, S.L., and von Lilienfeld, O.A. [_Alchemical insights into approximately quadratic energies of iso-electronic atoms_](https://arxiv.org/abs/2406.18416), arXiv (2024), in submission
+- Krug, S.L., Khan, D. and von Lilienfeld, O.A. [_Alchemical harmonic approximation based potential for all iso-electronic diatomics: Foundational baseline for $\Delta$-machine learning_](https://arxiv.org/abs/2409.18007), arXiv (2024)
+- Krug, S.L., and von Lilienfeld, O.A. [_Alchemical insights into approximately quadratic energies of iso-electronic atoms_](https://arxiv.org/abs/2406.18416), arXiv (2024), accepted
 - Krug, S.L., and von Lilienfeld, O.A. [_The Generalized Alchemical Integral Transform_](https://arxiv.org/abs/2312.04458), arXiv (2024), in submission
 - Krug, S.L., von Rudorff, G.F., and von Lilienfeld, O.A. [_Relative energies without electronic perturbations via Alchemical Integral Transform_](https://doi.org/10.1063/5.0111511). J. Chem. Phys. 157, 164109 (2022)
 - Krug, S.L., and Hanhart, C.  [_The Complete Next-to-Leading Order Potential of B(*)Bbar(*) -> B(*)Bbar(*)_](https://link.springer.com/article/10.3103/S1068335620110032). Bull. Lebedev Phys.
