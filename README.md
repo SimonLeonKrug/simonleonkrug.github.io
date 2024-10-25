@@ -9,8 +9,8 @@ Find me on [Linkedin](https://www.linkedin.com/in/simon-le%C3%B3n-krug-191012284
 
 ### Scientific Publications
 - Krug, S.L., Khan, D. and von Lilienfeld, O.A. [_Alchemical harmonic approximation based potential for all iso-electronic diatomics: Foundational baseline for Δ-machine learning_](https://arxiv.org/abs/2409.18007), arXiv (2024), in submission
-- Krug, S.L., and von Lilienfeld, O.A. [_Alchemical insights into approximately quadratic energies of iso-electronic atoms_](https://arxiv.org/abs/2406.18416), arXiv (2024), accepted
-- Krug, S.L., and von Lilienfeld, O.A. [_The Generalized Alchemical Integral Transform_](https://arxiv.org/abs/2312.04458), arXiv (2024), in submission
+- Krug, S.L., and von Lilienfeld, O.A. [_Alchemical insights into approximately quadratic energies of iso-electronic atoms_](https://doi.org/10.1063/5.0225865), J. Chem. Phys. 161, 164308 (2024)
+- Krug, S.L., and von Lilienfeld, O.A. [_The Generalized Alchemical Integral Transform_](https://arxiv.org/abs/2312.04458), arXiv (2024)
 - Krug, S.L., von Rudorff, G.F., and von Lilienfeld, O.A. [_Relative energies without electronic perturbations via Alchemical Integral Transform_](https://doi.org/10.1063/5.0111511). J. Chem. Phys. 157, 164109 (2022)
 - Krug, S.L., and Hanhart, C.  [_The Complete Next-to-Leading Order Potential of B(*)Bbar(*) -> B(*)Bbar(*)_](https://link.springer.com/article/10.3103/S1068335620110032). Bull. Lebedev Phys.
 Inst. 47 (11), 334–338 (2020)
