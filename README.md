@@ -1,16 +1,18 @@
-Welcome to my webpage! My name is Simon, I am a fourth-year PhD student researching method development in quantum alchemy, an interdisciplinary field between computational chemistry, materials science and theoretical physics. In addition to my inclination towards theoretical physics, I have a passion for tutoring and teaching.
+Welcome to my webpage! My name is Simon, I am a postdoc researching golden-rule instanton theory in the group of [Jeremy Richardson](https://www.richardson.ethz.ch/people/jeremy-richardson.html) at ETH Zürich. In addition to my inclination towards theoretical physics, I have a passion for tutoring and teaching.
 
 Find me on [Linkedin](https://www.linkedin.com/in/simon-le%C3%B3n-krug-191012284/), [Google Scholar](https://scholar.google.com/citations?user=SXvLvh8AAAAJ&hl=de&oi=ao) and [ORCID](https://orcid.org/0000-0002-9821-8280).
 
 ### CV
-- PhD student @ TU Berlin in Toronto-based group of [Anatole von Lilienfeld](https://chemspacelab.chem.utoronto.ca/people/head-of-lab), started @ University of Vienna (01/2021 - 07/2022), continued in Berlin (since 08/2022)
-- M.Sc. in physics @ University of Bonn, 04/2018 - 08/2020
-- B.Sc. in physics @ University of Bonn, 09/2013 - 08/2017
+- Postdoc at ETH Zürich in group of [Jeremy Richardson](https://www.richardson.ethz.ch/people/jeremy-richardson.html) (since 01/2025)
+- PhD at TU Berlin in Toronto-based group of [Anatole von Lilienfeld](https://chemspacelab.chem.utoronto.ca/people/head-of-lab), started @ University of Vienna (01/2021 - 07/2022), continued in Berlin (08/2022 - 12/2024)
+- M.Sc. in physics at University of Bonn, 04/2018 - 08/2020
+- B.Sc. in physics at University of Bonn, 09/2013 - 08/2017
 
 ### Scientific Publications
-- Krug, S.L., Khan, D. and von Lilienfeld, O.A. [_Alchemical harmonic approximation based potential for all iso-electronic diatomics: Foundational baseline for Δ-machine learning_](https://arxiv.org/abs/2409.18007), arXiv (2024), in submission
+- Chacko, J.T., Baru, V., Hanhart, C., and Krug, S.L. [_Two-pion exchange for coupled-channel heavy-meson heavy-(anti)meson scattering_](https://arxiv.org/abs/2411.13303), in submission
+- Krug, S.L., Khan, D., and von Lilienfeld, O.A. [_Alchemical harmonic approximation based potential for iso-electronic diatomics: Foundational baseline for Δ-machine learning_](https://arxiv.org/abs/2409.18007), arXiv (2024), accepted
+- Krug, S.L., and von Lilienfeld, O.A. [_The alchemical integral transform revisited_](https://doi.org/10.1063/5.0245863), J. Chem. Phys. 162, 014110 (2025)
 - Krug, S.L., and von Lilienfeld, O.A. [_Alchemical insights into approximately quadratic energies of iso-electronic atoms_](https://doi.org/10.1063/5.0225865), J. Chem. Phys. 161, 164308 (2024)
-- Krug, S.L., and von Lilienfeld, O.A. [_The Generalized Alchemical Integral Transform_](https://arxiv.org/abs/2312.04458), arXiv (2024)
 - Krug, S.L., von Rudorff, G.F., and von Lilienfeld, O.A. [_Relative energies without electronic perturbations via Alchemical Integral Transform_](https://doi.org/10.1063/5.0111511). J. Chem. Phys. 157, 164109 (2022)
 - Krug, S.L., and Hanhart, C.  [_The Complete Next-to-Leading Order Potential of B(*)Bbar(*) -> B(*)Bbar(*)_](https://link.springer.com/article/10.3103/S1068335620110032). Bull. Lebedev Phys.
 Inst. 47 (11), 334–338 (2020)
