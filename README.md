@@ -4,7 +4,7 @@ Find me on [Linkedin](https://www.linkedin.com/in/simon-le%C3%B3n-krug-191012284
 
 ### CV
 - Postdoc at ETH Zürich in group of [Jeremy Richardson](https://www.richardson.ethz.ch/people/jeremy-richardson.html) (since 01/2025)
-- PhD at TU Berlin in Toronto-based group of [Anatole von Lilienfeld](https://chemspacelab.chem.utoronto.ca/people/head-of-lab), started @ University of Vienna (01/2021 - 07/2022), continued in Berlin (08/2022 - 12/2024)
+- PhD at TU Berlin in Toronto-based group of [Anatole von Lilienfeld](https://chemspacelab.chem.utoronto.ca/people/head-of-lab), started at University of Vienna (01/2021 - 07/2022), continued in Berlin (08/2022 - 12/2024)
 - M.Sc. in physics at University of Bonn, 04/2018 - 08/2020
 - B.Sc. in physics at University of Bonn, 09/2013 - 08/2017
 
