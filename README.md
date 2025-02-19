@@ -1,4 +1,4 @@
-Welcome to my webpage! My name is Simon, I am a postdoc researching instanton theory in the group of [Jeremy Richardson](https://www.richardson.ethz.ch/people/jeremy-richardson.html) at ETH Zürich. In addition to my inclination towards theoretical physics, I have a passion for tutoring and teaching.
+Welcome to my webpage! My name is Simon, I am a postdoc researching instanton theory (see e.g. [_here_](https://www.nature.com/articles/s41467-024-48463-2)) in the group of [Jeremy Richardson](https://www.richardson.ethz.ch/people/jeremy-richardson.html) at ETH Zürich. In addition to my inclination towards theoretical physics, I have a passion for tutoring and teaching.
 
 Find me on [Linkedin](https://www.linkedin.com/in/simon-le%C3%B3n-krug-191012284/), [Google Scholar](https://scholar.google.com/citations?user=SXvLvh8AAAAJ&hl=de&oi=ao) and [ORCID](https://orcid.org/0000-0002-9821-8280).
 
@@ -9,6 +9,7 @@ Find me on [Linkedin](https://www.linkedin.com/in/simon-le%C3%B3n-krug-191012284
 - B.Sc. in physics at University of Bonn, 09/2013 - 08/2017
 
 ### Scientific Publications
+- Shiraogawa, T., Krug, S.L., Ehara, M., von Lilienfeld, O.A. [_Antisymmetry rules of response properties in certain chemical spaces_](https://arxiv.org/abs/2502.12761), arXiv (2025)
 - Chacko, J.T., Baru, V., Hanhart, C., and Krug, S.L. [_Two-pion exchange for coupled-channel heavy-meson heavy-(anti)meson scattering_](https://arxiv.org/abs/2411.13303), arXiv (2024), accepted
 - Krug, S.L., Khan, D., and von Lilienfeld, O.A. [_Alchemical harmonic approximation based potential for iso-electronic diatomics: Foundational baseline for Δ-machine learning_](https://doi.org/10.1063/5.0241872), J. Chem. Phys. 162, 044101 (2025)
 - Krug, S.L., and von Lilienfeld, O.A. [_The alchemical integral transform revisited_](https://doi.org/10.1063/5.0245863), J. Chem. Phys. 162, 014110 (2025)
@@ -27,13 +28,14 @@ Inst. 47 (11), 334–338 (2020)
 - Participant and [Student Speaker](https://mosphys.ru/indico/event/5/contributions/251/) at the [Moscow International School of Physics 2020](https://mosphys.ru/2020/) in Moscow, 03/2020
 
 ### Tutoring
-- Lecture: Analysis for Physicists, WT 2021/22, University of Vienna
-- Lecture: Theoretical Mechanics, ST 2020, University of Bonn
-- Lecture: Statistical Physics and Thermodynamics, WT 2019/20, University of Bonn
-- Lecture: Mathematics II, ST 2019, University of Bonn
-- Optics Laboratory Course for Physicists, WT 2018/19, University of Bonn
-- Lecture: Theoretical Electrodynamics, WT 2018/19, University of Bonn
-- Lecture: Physics II for Non-physicists, ST 2017, University of Bonn
-- Laboratory Course for Non-physicists, ST 2016, University of Bonn
-- Lecture: Optics, WT 2015/16, University of Bonn
+- Lecture: Chemistry for Computational Scientists, SS 2025
+- Lecture: Analysis for Physicists, WS 2021/22, University of Vienna
+- Lecture: Theoretical Mechanics, SS 2020, University of Bonn
+- Lecture: Statistical Physics and Thermodynamics, WS 2019/20, University of Bonn
+- Lecture: Mathematics II, SS 2019, University of Bonn
+- Optics Laboratory Course for Physicists, WS 2018/19, University of Bonn
+- Lecture: Theoretical Electrodynamics, WS 2018/19, University of Bonn
+- Lecture: Physics II for Non-physicists, SS 2017, University of Bonn
+- Laboratory Course for Non-physicists, SS 2016, University of Bonn
+- Lecture: Optics, WS 2015/16, University of Bonn
 - Preparational Lecture: Mathematics, 09/2014, University of Bonn
