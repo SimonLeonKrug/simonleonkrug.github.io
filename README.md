@@ -1,4 +1,4 @@
-Welcome to my webpage! My name is Simon, I am a postdoc researching instanton theory (see e.g. [_here_](https://www.nature.com/articles/s41467-024-48463-2)) in the group of [Jeremy Richardson](https://www.richardson.ethz.ch/people/jeremy-richardson.html) at ETH Zürich. In addition to my inclination towards theoretical physics, I have a passion for tutoring and teaching.
+Welcome to my webpage! My name is Simon, I am a postdoc researching instanton theory (see e.g. [here](https://www.nature.com/articles/s41467-024-48463-2)) in the group of [Jeremy Richardson](https://www.richardson.ethz.ch/people/jeremy-richardson.html) at ETH Zürich. In addition to my inclination towards theoretical physics, I have a passion for tutoring and teaching.
 
 Find me on [Linkedin](https://www.linkedin.com/in/simon-le%C3%B3n-krug-191012284/), [Google Scholar](https://scholar.google.com/citations?user=SXvLvh8AAAAJ&hl=de&oi=ao) and [ORCID](https://orcid.org/0000-0002-9821-8280).
 
