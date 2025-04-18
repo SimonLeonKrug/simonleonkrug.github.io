@@ -9,7 +9,7 @@ Find me on [Linkedin](https://www.linkedin.com/in/simon-le%C3%B3n-krug-191012284
 - B.Sc. in physics at University of Bonn, 09/2013 - 08/2017
 
 ### Scientific Publications
-- Shiraogawa, T., Krug, S.L., Ehara, M., von Lilienfeld, O.A. [_Antisymmetry rules of response properties in certain chemical spaces_](https://arxiv.org/abs/2502.12761), arXiv (2025)
+- Shiraogawa, T., Krug, S.L., Ehara, M., von Lilienfeld, O.A. [_Antisymmetry rules of response properties in certain chemical spaces_](https://arxiv.org/abs/2502.12761), arXiv (2025), in submission
 - Chacko, J.T., Baru, V., Hanhart, C., and Krug, S.L. [_Two-pion exchange for coupled-channel scattering of two heavy mesons_](https://doi.org/10.1103/PhysRevD.111.034042), Phys. Rev. D 111, 034042 (2025)
 - Krug, S.L., Khan, D., and von Lilienfeld, O.A. [_Alchemical harmonic approximation based potential for iso-electronic diatomics: Foundational baseline for Δ-machine learning_](https://doi.org/10.1063/5.0241872), J. Chem. Phys. 162, 044101 (2025)
 - Krug, S.L., and von Lilienfeld, O.A. [_The alchemical integral transform revisited_](https://doi.org/10.1063/5.0245863), J. Chem. Phys. 162, 014110 (2025)
