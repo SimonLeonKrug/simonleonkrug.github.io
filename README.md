@@ -20,12 +20,19 @@ Find me on [Linkedin](https://www.linkedin.com/in/simon-le%C3%B3n-krug-191012284
 Inst. 47 (11), 334–338 (2020)
 - Creator and maintainer of Python package ```PyAlchemy```, available on [GitHub](https://github.com/SimonLeonKrug/pyalchemy) and [PyPI](https://pypi.org/project/pyalchemy/)
 
+<<<<<<< HEAD
 ### Summer Schools, Conferences, Posters, Talks, ...
 - Participant (with Poster) at [Modern Wavefunction Based Methods in Electronic Structure Theory](https://https://mwm.dcci.unipi.it/) in Pisa, 09/2025
 - Participant (with Poster) at [Chemical Compound Space Conference 2024](https://ccsc2024.github.io/) in Heidelberg, 05/2024
 - Participant (with Poster) at [Workshop on Machine Learning and Reactive Processes](https://www.bifold.berlin/news-events/events/workshop-quantum-machine-learning) in Berlin, 12/2023
+=======
+### Summer Schools, Conferences, Posters, Talks, Interviews, ...
+- Interview for the [researcher spotlight at BIFOLD](https://www.bifold.berlin/news-events/news/view/news-detail/reseaercher-spotlight-dr-simon-krug)
+- Participant (with poster) at [Chemical Compound Space Conference 2024](https://ccsc2024.github.io/) in Heidelberg, 05/2024
+- Participant (with poster) at [Workshop on Machine Learning and Reactive Processes](https://www.bifold.berlin/news-events/events/workshop-quantum-machine-learning) in Berlin, 12/2023
+>>>>>>> 808073d0860c6812f32e512b1e0ae5b33149188b
 - Participant at the Summer School "Introduction to tools and methods of Artificial Intelligence 2023" in Budapest (Eötvös Loránd University), 07/2023
-- Participant (with Poster) at the Summer School ["2D Quantum Matter"](https://sites.google.com/view/2dqm/home) in Lucca (University of Pisa), 07/2023
+- Participant (with poster) at the Summer School ["2D Quantum Matter"](https://sites.google.com/view/2dqm/home) in Lucca (University of Pisa), 07/2023
 - Participant at the Summer School "Foundations of Machine Learning 2023" in Amsterdam (Tinbergen Institute), 07/2023
 - Participant and [Student Speaker](https://mosphys.ru/indico/event/5/contributions/251/) at the [Moscow International School of Physics 2020](https://mosphys.ru/2020/) in Moscow, 03/2020
 
