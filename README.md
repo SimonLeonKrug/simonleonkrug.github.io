@@ -21,7 +21,7 @@ Inst. 47 (11), 334–338 (2020)
 - Creator and maintainer of Python package ```PyAlchemy```, available on [GitHub](https://github.com/SimonLeonKrug/pyalchemy) and [PyPI](https://pypi.org/project/pyalchemy/)
 
 ### Summer Schools, Conferences, Posters, Talks, ...
-- Participant (with Poster) at [Modern Wavefunction Based Methods in Electronic Structure Theory](https://https://mwm.dcci.unipi.it/) in Pisa, 09/2025
+- Participant (with Poster) at [Modern Wavefunction Based Methods in Electronic Structure Theory](https://mwm.dcci.unipi.it/) in Pisa, 09/2025
 - Interview for the [researcher spotlight at BIFOLD](https://www.bifold.berlin/news-events/news/view/news-detail/reseaercher-spotlight-dr-simon-krug)
 - Participant (with Poster) at [Chemical Compound Space Conference 2024](https://ccsc2024.github.io/) in Heidelberg, 05/2024
 - Participant (with Poster) at [Workshop on Machine Learning and Reactive Processes](https://www.bifold.berlin/news-events/events/workshop-quantum-machine-learning) in Berlin, 12/2023
