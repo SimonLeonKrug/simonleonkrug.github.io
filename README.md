@@ -21,6 +21,7 @@ Inst. 47 (11), 334–338 (2020)
 - Creator and maintainer of Python package ```PyAlchemy```, available on [GitHub](https://github.com/SimonLeonKrug/pyalchemy) and [PyPI](https://pypi.org/project/pyalchemy/)
 
 ### Summer Schools, Conferences, Posters, Talks, ...
+- Participant (with Poster) at [61. Symposium of Theoretical Chemistry](https://www.bcp.fu-berlin.de/en/stc2025/index.html) in Berlin, 09/2025
 - Participant (with Poster) at [Modern Wavefunction Based Methods in Electronic Structure Theory](https://mwm.dcci.unipi.it/) in Pisa, 09/2025
 - Interview for the [researcher spotlight at BIFOLD](https://www.bifold.berlin/news-events/news/view/news-detail/reseaercher-spotlight-dr-simon-krug)
 - Participant (with Poster) at [Chemical Compound Space Conference 2024](https://ccsc2024.github.io/) in Heidelberg, 05/2024
@@ -31,6 +32,7 @@ Inst. 47 (11), 334–338 (2020)
 - Participant and [Student Speaker](https://mosphys.ru/indico/event/5/contributions/251/) at the [Moscow International School of Physics 2020](https://mosphys.ru/2020/) in Moscow, 03/2020
 
 ### Tutoring
+- Lecture: Physical Chemistry for Biologists, AS 2025, ETH Zurich
 - Lecture: Chemistry for Computational Scientists, SS 2025, ETH Zurich
 - Lecture: Analysis for Physicists, WS 2021/22, University of Vienna
 - Lecture: Theoretical Mechanics, SS 2020, University of Bonn
